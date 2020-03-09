@@ -1,7 +1,7 @@
 #background {
 	background-image: url("images/background.jpg");
 	background-attachment: fixed;
-	background-position: left center;
+	background-position: top left;
 	background-repeat: no-repeat;
 	background-size: cover;
 	width: auto;
