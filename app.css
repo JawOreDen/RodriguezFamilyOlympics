@@ -1,0 +1,37 @@
+#background {
+	background-image: url("images/background.jpg");
+	width: auto;
+	height: auto;
+}
+
+#welcome {
+	font-size: 3rem;
+	align-items: center;
+	color: red;
+	text-shadow: 2px 2px black;
+}
+
+#font {
+	font-size: 1.8rem;
+}
+
+#par {
+	color: #fafad2;
+	text-shadow: 3px 2px darkblue;
+}
+
+#bible {
+	color: cyan;
+	text-shadow: 3px 2px darkblue;
+}
+
+#events {
+	color: white;
+	text-shadow: 3px 2px green;
+}
+
+#numb {
+	font-size: 2rem;
+	color: #fafad2;
+	text-shadow: 3px 2px darkblue;
+}
