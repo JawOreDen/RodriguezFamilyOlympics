@@ -35,6 +35,11 @@
 	text-shadow: 3px 2px green;
 }
 
+h3 {
+	color: red;
+	text-shadow: 1px 2px white;
+}
+
 #numb {
 	font-size: 2rem;
 	color: #fafad2;
