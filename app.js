@@ -4,7 +4,7 @@ let oList = document.getElementById("o-List");
 // moves over the ordered list
 oList.addEventListener("mouseenter", function( event ) {   
   // highlight the mouseenter target
-  event.target.style.color = "purple";
+  event.target.style.color = "red";
 
   // reset the color after a short delay
   setTimeout(function() {
@@ -16,7 +16,7 @@ oList.addEventListener("mouseenter", function( event ) {
 // is moved over a different list item
 oList.addEventListener("mouseover", function( event ) {   
   // highlight the mouseover target
-  event.target.style.color = "orange";
+  event.target.style.color = "blue";
 
   // reset the color after a short delay
   setTimeout(function() {
