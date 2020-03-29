@@ -23,3 +23,12 @@ oList.addEventListener("mouseover", function( event ) {
     event.target.style.color = "";
   }, 500);
 }, false);
+
+oList.addEventListener('mouseenter', function(event) {
+    event.target.style.backgroundColor = 'black';
+
+    setTimeout(function(){
+        event.target.style.backgroundColor = '';
+    },4500);
+}, false);
+
